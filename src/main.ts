@@ -1,6 +1,5 @@
 import Konva from 'konva';
 
-
 // Constants for the animation (scale, drag, wiggle)
 const BASE_SCALE = 1;
 const PRESSED_SCALE = 1.1;
